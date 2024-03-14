@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "silly-datetime": "^0.1.2",
+        "tencentcloud-sdk-nodejs": "^4.0.812"
+    }
+}
